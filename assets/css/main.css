@@ -1,0 +1,58 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.first-section{
+	height: 10em;
+}
+.img-panda{
+	padding-bottom: 2em;
+	background-image: url(../img/uno.jpg);
+	height: 33em;
+	background-size: cover;
+	background-position: center;
+}
+.second-section{
+	height: 35em;
+}
+.third-section{
+	padding-top: 3em;
+	height: 30em;
+}
+.text, .paragraph{
+	text-align: center;
+}
+.quarter-section{
+	height: 49em;
+}
+.img-panda2{
+	margin-top: 2em;
+	background-image: url(../img/dos.jpg);
+	height: 45em;
+	background-size: cover;
+	background-position: center;
+}
+.fifth-section{
+	height: 32em;
+}
+.container-images{
+	padding-top: 3em;
+	height: 30em;
+}
+.img{
+	border: 5px solid white;
+}
+.sixth-section{
+	height: 32em;
+	padding-top: 2em;
+}
+.img-panda3{
+	background-image: url(../img/tres.jpg);
+	height: 30em;
+	background-size: cover;
+	background-position: center;
+}
+.seventh-section{
+	color: white;
+	padding-top: 2em;
+}
